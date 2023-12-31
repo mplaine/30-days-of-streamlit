@@ -1,5 +1,7 @@
 # 30 Days of Streamlit
 
+This repository contains the code for the [30 Days of Streamlit](https://30days.streamlit.app) challenge.
+
 
 ## Installation
 
@@ -44,10 +46,8 @@ streamlit hello
 Start the Streamlit application:
 
 ```bash
-streamlit run streamlit_app_day<SPECIFIC_DAY_NUMBER>.py
-
-# For example, Day 2:
-streamlit run streamlit_app_day2.py
+# Latest version of the app
+streamlit run streamlit_app.py
 ```
 
 
