@@ -1,2 +1,3 @@
 -r requirements.txt
+streamlit-pandas-profiling==0.1.3
 watchdog==3.0.0
