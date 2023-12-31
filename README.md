@@ -49,3 +49,10 @@ streamlit run streamlit_app_day<SPECIFIC_DAY_NUMBER>.py
 # For example, Day 2:
 streamlit run streamlit_app_day2.py
 ```
+
+
+## License
+
+Copyright (c) 2023 [Markku Laine](https://markkulaine.com)
+
+This software is distributed under the terms of the [MIT License](https://opensource.org/license/mit/). See [LICENSE](./LICENSE) for details.
