@@ -2,6 +2,8 @@
 
 This repository contains the code for the [30 Days of Streamlit](https://30days.streamlit.app) challenge.
 
+The latest version of the application is automatically deployed to [Streamlit Cloud](https://streamlit.io/cloud) and available online at https://30-days-of-app-sdhefnmqknadxy3zrxiak8.streamlit.app/.
+
 
 ## Installation
 
