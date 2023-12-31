@@ -44,5 +44,8 @@ streamlit hello
 Start the Streamlit application:
 
 ```bash
-streamlit run streamlit_app.py
+streamlit run streamlit_app_day<SPECIFIC_DAY_NUMBER>.py
+
+# For example, Day 2:
+streamlit run streamlit_app_day2.py
 ```
